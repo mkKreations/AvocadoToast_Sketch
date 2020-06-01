@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "34B3E52B-251B-4DD7-9779-C5E390334BF8",
+  "do_objectID": "AE6656D2-EA2E-42F0-96B5-7505E1C1AB09",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +22,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 230,
+    "width": 230,
+    "x": 211,
+    "y": -83
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -31,34 +39,31 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "4246CE44-5647-45E8-8C4B-E0DC6E1ADAD8"
-    },
-    {
-      "class": "bitmap",
-      "id": "A67FD8F7-1095-4A93-BCC1-0CA08733DDCB"
-    },
-    {
-      "class": "artboard",
-      "id": "AE6656D2-EA2E-42F0-96B5-7505E1C1AB09"
+      "class": "shapePath",
+      "id": "6D1DB145-AD5B-4E0A-B383-56659563EB63"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Toast",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
