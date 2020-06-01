@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6D1DB145-AD5B-4E0A-B383-56659563EB63",
+  "do_objectID": "EAB20495-22CE-4439-A00A-246FAE70FCD3",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 218.1514965219091,
-    "width": 192.4528891182497,
-    "x": 18.85591708826146,
-    "y": 6.312698117053841
+    "height": 214,
+    "width": 189,
+    "x": 21,
+    "y": 8
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -30,7 +30,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Outermost Crust",
+  "name": "Outer Crust",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -326,7 +326,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 9.8,
       "saturation": 1,
       "type": 0
     },
@@ -360,9 +360,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.203921568627451,
-          "green": 0.2705882352941176,
-          "red": 0.3294117647058823
+          "blue": 0.2156862745098039,
+          "green": 0.3019607843137255,
+          "red": 0.392156862745098
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

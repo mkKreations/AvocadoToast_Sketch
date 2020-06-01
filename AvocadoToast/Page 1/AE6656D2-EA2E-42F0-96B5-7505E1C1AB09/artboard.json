@@ -47,11 +47,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
       "id": "6D1DB145-AD5B-4E0A-B383-56659563EB63"
+    },
+    {
+      "class": "shapePath",
+      "id": "EAB20495-22CE-4439-A00A-246FAE70FCD3"
     }
   ],
   "maintainScrollPosition": false,
