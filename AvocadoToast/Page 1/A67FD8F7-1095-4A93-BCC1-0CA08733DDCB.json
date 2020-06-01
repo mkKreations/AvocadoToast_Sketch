@@ -17,15 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 531,
-    "width": 259.3255813953488,
-    "x": -77,
-    "y": -230
+    "height": 230,
+    "width": 230,
+    "x": -36,
+    "y": -83
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/6979d787da8f00500be0a0a9581dfac9eea80d8b.png",
+    "_ref": "images/d69385e7e146a116ac832ad8db8cc2bfc66ef8df.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 72,
@@ -36,8 +36,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Screen Shot 2020-06-01 at 2.39.09 PM",
-  "nameIsFixed": false,
+  "name": "Toast Egg Centered",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
