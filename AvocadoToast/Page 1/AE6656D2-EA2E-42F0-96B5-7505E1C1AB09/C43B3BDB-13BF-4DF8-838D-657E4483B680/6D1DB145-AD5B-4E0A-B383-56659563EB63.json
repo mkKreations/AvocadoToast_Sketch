@@ -18,15 +18,15 @@
     "constrainProportions": false,
     "height": 218.1514965219091,
     "width": 192.4528891182497,
-    "x": 18.85591708826146,
-    "y": 6.312698117053841
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
