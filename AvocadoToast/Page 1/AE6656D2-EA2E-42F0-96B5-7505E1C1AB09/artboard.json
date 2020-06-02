@@ -55,6 +55,10 @@
     },
     {
       "class": "group",
+      "id": "64E1C31E-7724-467B-9A55-E68FA052D3D5"
+    },
+    {
+      "class": "group",
       "id": "2BBFE02D-45D8-40CD-A1C4-AAAA4B7F0CEC"
     },
     {
@@ -68,18 +72,6 @@
     {
       "class": "group",
       "id": "A84EADD9-26B2-465B-BEF2-70BD98FB3C1C"
-    },
-    {
-      "class": "shapePath",
-      "id": "63B61D1C-6ED0-4484-805B-FD74AE6202EB"
-    },
-    {
-      "class": "shapePath",
-      "id": "2AD0E7E8-14A8-49A0-8BA6-819831BCBD4E"
-    },
-    {
-      "class": "shapePath",
-      "id": "A0A8878B-55DD-4751-B797-15FACFA91094"
     }
   ],
   "maintainScrollPosition": false,
