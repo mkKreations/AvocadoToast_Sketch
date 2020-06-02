@@ -24,6 +24,50 @@
           "red": 0.3411764705882353
         },
         "name": "Outer Crust Fill"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2509803921568627,
+          "green": 0.6509803921568628,
+          "red": 0.3725490196078431
+        },
+        "name": "Avocado Layer 4"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3490196078431373,
+          "green": 0.7686274509803922,
+          "red": 0.5803921568627451
+        },
+        "name": "Avocado Layer 3"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.8352941176470589,
+          "red": 0.7372549019607844
+        },
+        "name": "Avocado Layer 2"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5490196078431373,
+          "green": 0.8901960784313725,
+          "red": 0.8392156862745097
+        },
+        "name": "Avocado Layer 1"
       }
     ],
     "colors": [
@@ -40,6 +84,34 @@
         "blue": 0.1882352941176471,
         "green": 0.2627450980392157,
         "red": 0.3411764705882353
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2509803921568627,
+        "green": 0.6509803921568628,
+        "red": 0.3725490196078431
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3490196078431373,
+        "green": 0.7686274509803922,
+        "red": 0.5803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4588235294117647,
+        "green": 0.8352941176470589,
+        "red": 0.7372549019607844
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5490196078431373,
+        "green": 0.8901960784313725,
+        "red": 0.8392156862745097
       }
     ],
     "exportPresets": [

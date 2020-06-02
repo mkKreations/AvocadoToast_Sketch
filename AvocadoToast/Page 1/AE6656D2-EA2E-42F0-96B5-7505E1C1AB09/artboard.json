@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 230,
     "width": 230,
-    "x": 211,
+    "x": -36,
     "y": -83
   },
   "groupLayout": {
@@ -56,6 +56,10 @@
     {
       "class": "group",
       "id": "A84EADD9-26B2-465B-BEF2-70BD98FB3C1C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA648A20-6ACC-472F-9773-7126B8AF452C"
     }
   ],
   "maintainScrollPosition": false,
