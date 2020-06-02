@@ -3,8 +3,44 @@
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.203921568627451,
+          "green": 0.2705882352941176,
+          "red": 0.3294117647058823
+        },
+        "name": "Outermost Crust Fill"
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1882352941176471,
+          "green": 0.2627450980392157,
+          "red": 0.3411764705882353
+        },
+        "name": "Outer Crust Fill"
+      }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.203921568627451,
+        "green": 0.2705882352941176,
+        "red": 0.3294117647058823
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1882352941176471,
+        "green": 0.2627450980392157,
+        "red": 0.3411764705882353
+      }
     ],
     "exportPresets": [
     ],
