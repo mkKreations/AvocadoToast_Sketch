@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "height": 31.51102021436612,
     "width": 97.55343812512889,
-    "x": 81.42730840599512,
-    "y": 187.0708149281148
+    "x": 3.677150502620002,
+    "y": 5.809510354870095
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -27,7 +27,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
   "name": "Layer 3",
