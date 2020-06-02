@@ -28,8 +28,8 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
-  "isVisible": true,
+  "isLocked": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {
