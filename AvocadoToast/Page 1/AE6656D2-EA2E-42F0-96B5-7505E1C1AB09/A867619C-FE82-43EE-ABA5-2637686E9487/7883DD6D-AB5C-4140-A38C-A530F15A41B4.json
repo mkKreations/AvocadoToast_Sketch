@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "98C89CB1-D1DC-40BF-B779-37C608B3E6AE",
+  "do_objectID": "7883DD6D-AB5C-4140-A38C-A530F15A41B4",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,73 +16,73 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51.97279968233344,
-    "width": 129.9289235684073,
-    "x": 45.2379482984778,
-    "y": 46.39149177765854
+    "height": 42.55743934308673,
+    "width": 105.5917326078587,
+    "x": 20.35521853518057,
+    "y": 15.25621760531244
   },
   "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Layer 3",
+  "name": "Layer 1",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.0041970197330574279, 0.78174160497753298}",
+      "curveFrom": "{0.003209854944528735, 0.78272182899255527}",
       "curveMode": 4,
-      "curveTo": "{0.37344439115038225, 0.94338074697272722}",
+      "curveTo": "{0.37027755651166155, 0.94363503066945531}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.0030554009624157623, 1.0000000000000104}"
+      "point": "{0.0020749751575803851, 0.99999999999999978}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.097348133892379368, 0.40268975795163819}",
+      "curveFrom": "{0.099468944816145544, 0.40088123108461438}",
       "curveMode": 4,
-      "curveTo": "{-0.025855249242852207, 0.68481489345199542}",
+      "curveTo": "{-0.023007167875343369, 0.68173930955821571}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.081059384388125613, 0.43521309977110267}"
+      "point": "{0.083276347915647517, 0.43325850676674998}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.5437488394351726, -0.025861965975843407}",
+      "curveFrom": "{0.54323454383064818, -0.025745816857625739}",
       "curveMode": 4,
-      "curveTo": "{0.28574092101187659, 0.15923364271100804}",
+      "curveTo": "{0.28674964797820857, 0.15851850577173793}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.38667227899747292, 0.086575629182260402}"
+      "point": "{0.3870852074423542, 0.086186807891641848}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.9219955426646399, 0.13152155915450903}",
+      "curveFrom": "{0.91924845409046219, 0.13093088042820186}",
       "curveMode": 4,
-      "curveTo": "{0.62452111973649882, -0.010254707349115787}",
+      "curveTo": "{0.62353002478895314, -0.010208652257353132}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.77454371344251127, 0.030193394245383982}"
+      "point": "{0.77266703406116677, 0.030057792175499757}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.67489215797892155, 0.65935573820672366}",
+      "curveFrom": "{0.67681127187428813, 0.64444650826988792}",
       "curveMode": 4,
-      "curveTo": "{0.97349432832065008, 0.18548261521921275}",
+      "curveTo": "{0.97365079148840994, 0.1727016049789562}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.99999999999999978, 0.37853829409468115}"
+      "point": "{1.0000000000000002, 0.36489024818941573}"
     }
   ],
   "resizingConstraint": 63,
@@ -96,7 +96,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.1,
       "saturation": 1,
       "type": 0
     },
@@ -157,7 +157,7 @@
         },
         "isEnabled": false,
         "position": 0,
-        "thickness": 0.3
+        "thickness": 0.5
       }
     ],
     "colorControls": {
@@ -180,9 +180,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3490196078431373,
-          "green": 0.7686274509803922,
-          "red": 0.5803921568627451
+          "blue": 0.5490196078431373,
+          "green": 0.8901960784313725,
+          "red": 0.8392156862745097
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

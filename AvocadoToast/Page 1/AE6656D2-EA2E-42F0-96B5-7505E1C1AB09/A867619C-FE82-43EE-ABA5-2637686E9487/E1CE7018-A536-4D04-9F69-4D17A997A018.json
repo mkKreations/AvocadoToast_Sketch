@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9B41286F-CC03-4056-BC15-62AC6BB17F1D",
+  "do_objectID": "E1CE7018-A536-4D04-9F69-4D17A997A018",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,73 +16,63 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 46.59362713722514,
-    "width": 118.1498163324461,
-    "x": 51.22769540634149,
-    "y": 50.99999999999998
+    "height": 59.62050906530435,
+    "width": 139.3861982295814,
+    "x": -1.4210854715202e-14,
+    "y": 3.552713678800501e-15
   },
   "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Layer 2",
+  "name": "Layer 4",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.0021632671048925126, 0.77983803373271054}",
+      "curveFrom": "{0.0018387208078897632, 1.0449413825115084}",
       "curveMode": 4,
-      "curveTo": "{0.36781717835826949, 0.94288693420572389}",
+      "curveTo": "{0.29360037228781799, 0.86418999079004877}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.0010327583972933269, 1}"
+      "point": "{0.068347872990845757, 0.99516383017275922}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.10293741147126061, 0.40620187323012846}",
+      "curveFrom": "{0.35594435072808062, -0.17074979404620821}",
       "curveMode": 4,
-      "curveTo": "{-0.019066974775623004, 0.69078760272194228}",
+      "curveTo": "{-0.064448366097682355, 0.70169891108418914}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.086807181639711295, 0.43900887194291138}"
+      "point": "{0.12010573249056899, 0.36877326325153847}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.54499381214772857, -0.026087524744205389}",
+      "curveFrom": "{0.99998938867190656, 0.56389920219713952}",
       "curveMode": 4,
-      "curveTo": "{0.28949678817786734, 0.16062242128898752}",
+      "curveTo": "{1.0017398330113803, -0.055555870782967441}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.38944589729105555, 0.0873307106910194}"
+      "point": "{0.99998938867190679, 0.3130507854108398}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.91955947506272517, 0.13266864290381281}",
+      "curveFrom": "{0.42072198246682163, 0.79803824706820492}",
       "curveMode": 4,
-      "curveTo": "{0.62498002870403779, -0.010344145219451694}",
+      "curveTo": "{0.88585868165193915, 0.48034212130210929}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.77354262497769133, 0.030456730173712785}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.67805605884788611, 0.65299983775142334}",
-      "curveMode": 4,
-      "curveTo": "{0.97375227755108951, 0.17499376377013454}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{1.0000000000000007, 0.36973320486202177}"
+      "point": "{0.70531309555749244, 0.62945981577494248}"
     }
   ],
   "resizingConstraint": 63,
@@ -96,7 +86,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 9,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -157,7 +147,7 @@
         },
         "isEnabled": false,
         "position": 0,
-        "thickness": 0.5
+        "thickness": 0.3
       }
     ],
     "colorControls": {
@@ -180,9 +170,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.8352941176470589,
-          "red": 0.7372549019607844
+          "blue": 0.2509803921568627,
+          "green": 0.6509803921568628,
+          "red": 0.3725490196078431
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
