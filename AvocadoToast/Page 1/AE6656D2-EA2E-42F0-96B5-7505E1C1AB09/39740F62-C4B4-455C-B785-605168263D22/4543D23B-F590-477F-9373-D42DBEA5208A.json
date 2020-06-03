@@ -2,7 +2,7 @@
   "_class": "shapePath",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "FA6DBF15-2F04-46AE-81D5-8D8C3055DE82",
+  "do_objectID": "4543D23B-F590-477F-9373-D42DBEA5208A",
   "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,21 +16,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31.83119885621936,
-    "width": 124.6612077685659,
-    "x": 43.45394435494894,
-    "y": 87.35488765247
+    "height": 29,
+    "width": 112,
+    "x": 11.72766786197319,
+    "y": 10.24250530558197
   },
   "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Layer 3",
+  "name": "Layer 2",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -76,7 +76,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 9,
       "saturation": 1,
       "type": 0
     },
@@ -137,7 +137,7 @@
         },
         "isEnabled": false,
         "position": 0,
-        "thickness": 0.3
+        "thickness": 0.5
       }
     ],
     "colorControls": {
@@ -160,9 +160,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3490196078431373,
-          "green": 0.7686274509803922,
-          "red": 0.5803921568627451
+          "blue": 0.4588235294117647,
+          "green": 0.8352941176470589,
+          "red": 0.7372549019607844
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
