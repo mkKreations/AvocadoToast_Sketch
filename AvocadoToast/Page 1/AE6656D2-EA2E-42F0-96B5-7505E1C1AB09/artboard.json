@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -84,6 +84,10 @@
     {
       "class": "shapePath",
       "id": "26EFA5D2-70C7-448C-9AB8-F88377770819"
+    },
+    {
+      "class": "shapePath",
+      "id": "51229B00-668D-4745-BB2B-68CA323D28F4"
     }
   ],
   "maintainScrollPosition": false,
