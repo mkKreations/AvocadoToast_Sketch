@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F2AF6C09-5378-4CF1-A4D2-AD7329CC48A6",
+  "do_objectID": "2BBFE02D-45D8-40CD-A1C4-AAAA4B7F0CEC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 47,
-    "width": 133,
-    "x": 56,
-    "y": 141
+    "height": 43,
+    "width": 132,
+    "x": 10.73443507050013,
+    "y": 106.202103448503
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,27 +30,23 @@
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
-      "id": "D757F0C2-FB06-4224-92D6-25A6C7DA1AD5"
+      "id": "3F0F36BB-1F53-4CD7-B5EE-96B3F5714197"
     },
     {
       "class": "shapePath",
-      "id": "138C1CC8-3004-4CE0-8560-62F53FEE7564"
+      "id": "FB41E658-C678-4A50-857D-080233D74F68"
     },
     {
       "class": "shapePath",
-      "id": "343980DD-9949-4B24-9C54-C07F6791B57A"
-    },
-    {
-      "class": "shapePath",
-      "id": "1B0C3619-87B5-420E-911B-E40B6FD471D6"
+      "id": "918DF826-FF5B-49F3-B6C7-DDA217112333"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Avocado Slice 3",
+  "name": "Avocado Slice 4",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
