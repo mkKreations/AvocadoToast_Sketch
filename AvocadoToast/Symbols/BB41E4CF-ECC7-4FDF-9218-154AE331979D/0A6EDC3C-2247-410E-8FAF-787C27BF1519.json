@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AE6656D2-EA2E-42F0-96B5-7505E1C1AB09",
+  "do_objectID": "0A6EDC3C-2247-410E-8FAF-787C27BF1519",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,58 +17,27 @@
     "constrainProportions": false,
     "height": 230,
     "width": 230,
-    "x": 89,
-    "y": 185
+    "x": 0,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "group",
-      "id": "23984860-7171-4789-88E3-529F455D49B7"
-    },
-    {
-      "class": "group",
-      "id": "D2AD5C41-C224-49EE-BC43-A65155B443E3"
-    },
-    {
-      "class": "group",
-      "id": "49988B2C-1AF0-4DD0-985A-05AB3719C118"
-    },
-    {
-      "class": "group",
-      "id": "CE522310-1BD0-4105-94A2-94D9882E9E37"
-    }
-  ],
+  "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Toast Icon",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "Toppings/Spices & Herbs",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -121,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "B1FAB2BA-5BBF-4BCF-B6CF-234BFCB61DB2",
+  "verticalSpacing": 0
 }
