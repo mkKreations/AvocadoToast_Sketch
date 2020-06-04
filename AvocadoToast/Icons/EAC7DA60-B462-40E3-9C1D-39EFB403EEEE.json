@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CCE29FC2-2A87-47F2-A261-7C86913E2CE5",
+  "do_objectID": "EAC7DA60-B462-40E3-9C1D-39EFB403EEEE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -44,7 +44,7 @@
     "constrainProportions": false,
     "height": 230,
     "width": 230,
-    "x": 442,
+    "x": 747,
     "y": 31
   },
   "hasClippingMask": false,
@@ -56,15 +56,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "White_Full",
-  "nameIsFixed": true,
+  "name": "Toppings/Egg",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "B380966C-C3F4-4BDE-81B8-BF934CB8573A",
-      "overrideName": "F52B1D8E-123C-4E1E-925A-F3E04C71AC70_symbolID",
-      "value": ""
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -116,6 +110,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B5A49AD4-D33D-4479-A18E-93902442A428",
+  "symbolID": "578DC5B1-BF16-48E9-A07C-6E42EA209190",
   "verticalSpacing": 0
 }

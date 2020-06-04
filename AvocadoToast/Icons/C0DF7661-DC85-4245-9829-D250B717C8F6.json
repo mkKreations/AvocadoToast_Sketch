@@ -6,6 +6,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +52,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
@@ -37,6 +64,12 @@
       "do_objectID": "102BBAB7-15EE-40E6-BB09-2D1B702D2D28",
       "overrideName": "24697894-7A59-48B0-A8BF-BAD3CC737FAA_symbolID",
       "value": "8F6175FD-73E8-4060-B0A3-9408400A1CFA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F16CFB7D-F1D1-4FA4-8D89-3B93C7D98341",
+      "overrideName": "F52B1D8E-123C-4E1E-925A-F3E04C71AC70_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
