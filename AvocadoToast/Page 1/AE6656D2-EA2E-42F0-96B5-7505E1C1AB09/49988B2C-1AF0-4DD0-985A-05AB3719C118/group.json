@@ -29,7 +29,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
@@ -42,7 +42,7 @@
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Salt",
+  "name": "Salt & Pepper",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
