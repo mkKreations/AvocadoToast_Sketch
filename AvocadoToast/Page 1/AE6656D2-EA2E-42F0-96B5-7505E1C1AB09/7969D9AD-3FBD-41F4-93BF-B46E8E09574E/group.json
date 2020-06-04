@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 192,
-    "width": 172,
+    "width": 175,
     "x": 26.99999999999999,
     "y": 22
   },
@@ -29,7 +29,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {
@@ -139,6 +139,18 @@
     {
       "class": "shapePath",
       "id": "371339B7-E2EA-4F62-AB8F-78C6075EDB75"
+    },
+    {
+      "class": "shapePath",
+      "id": "8109017A-3E21-43F9-9B9D-43E1E55E393E"
+    },
+    {
+      "class": "shapePath",
+      "id": "57377836-8622-4B99-BFC7-5EB10A7975AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "E4C73B4A-2152-4891-BAA5-9E94182A7545"
     },
     {
       "class": "shapePath",
