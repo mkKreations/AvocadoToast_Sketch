@@ -1,17 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "changeIdentifier": 264,
   "clippingMaskMode": 0,
-  "do_objectID": "2597C9F8-5C7A-4FBA-A2D8-529332232C12",
+  "do_objectID": "F52B1D8E-123C-4E1E-925A-F3E04C71AC70",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,51 +15,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 230,
-    "width": 230,
-    "x": -187,
-    "y": 586
+    "height": 135,
+    "width": 135,
+    "x": 47.5,
+    "y": 48.98268622189036
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "BC4375AB-FF84-47CF-A233-947D3DA3720D"
-    }
-  ],
   "maintainScrollPosition": false,
   "name": "Toppings/Egg",
   "nameIsFixed": false,
-  "overrideProperties": [
+  "overrideValues": [
   ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -115,10 +84,5 @@
     "windingRule": 1
   },
   "symbolID": "578DC5B1-BF16-48E9-A07C-6E42EA209190",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "verticalSpacing": 0
 }

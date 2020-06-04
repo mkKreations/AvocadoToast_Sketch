@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "A2797E2E-8AF5-4754-96CC-5940FFD7775F",
-    "height": 122,
-    "width": 124,
-    "x": 6,
-    "y": 6
+    "height": 205,
+    "width": 208.3606557377049,
+    "x": 11,
+    "y": 13
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -31,7 +31,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
