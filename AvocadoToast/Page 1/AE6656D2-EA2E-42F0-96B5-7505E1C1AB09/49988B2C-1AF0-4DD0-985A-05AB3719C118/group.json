@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EF395A37-FFDA-4CDF-8B63-BDD339A5FD1C",
+  "do_objectID": "49988B2C-1AF0-4DD0-985A-05AB3719C118",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 191,
-    "width": 149,
-    "x": 35,
-    "y": 24
+    "height": 198,
+    "width": 176,
+    "x": 26.94188451943275,
+    "y": 16
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -28,77 +28,21 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "E9A6076F-7877-4303-9301-DE8C262100F4"
+      "class": "group",
+      "id": "7969D9AD-3FBD-41F4-93BF-B46E8E09574E"
     },
     {
-      "class": "oval",
-      "id": "731961C5-B305-4327-BB41-D8D6DF3D3F06"
-    },
-    {
-      "class": "oval",
-      "id": "3FBCCA2A-1096-4F2D-B333-EC0C6C341561"
-    },
-    {
-      "class": "oval",
-      "id": "17E2FE23-A5F8-4BD4-9957-CFE477762A54"
-    },
-    {
-      "class": "oval",
-      "id": "8DBFE629-B57D-47C9-AE8D-3381CA68BC94"
-    },
-    {
-      "class": "oval",
-      "id": "34F67625-CFEF-4700-AF82-482466C1E16A"
-    },
-    {
-      "class": "oval",
-      "id": "DC07A72A-CE2F-422F-981B-6B0358830F28"
-    },
-    {
-      "class": "oval",
-      "id": "168C7909-A620-42C1-9839-2AC8571C5CD8"
-    },
-    {
-      "class": "oval",
-      "id": "E08C25BC-DC1A-4B75-80B0-09B66F8862A9"
-    },
-    {
-      "class": "oval",
-      "id": "97291AEA-AD91-4D25-B454-35EBDCB3953F"
-    },
-    {
-      "class": "oval",
-      "id": "25A1B508-97AC-4EB4-9510-8512621B7003"
-    },
-    {
-      "class": "oval",
-      "id": "86DE8DE8-5762-42A1-A698-DE501E497D17"
-    },
-    {
-      "class": "oval",
-      "id": "0A5059F5-98E7-4DC9-B2B1-C91A829ED468"
-    },
-    {
-      "class": "oval",
-      "id": "DD55BCCF-8D36-4575-AB10-A5BBFC7EE178"
-    },
-    {
-      "class": "oval",
-      "id": "6438ACB9-E2CD-4218-A4EB-0BFAAF9C9A8C"
-    },
-    {
-      "class": "oval",
-      "id": "CF849FF3-13E9-4CC1-B5D4-9FCCAF88ED30"
+      "class": "group",
+      "id": "FB65BB6F-BE0B-42C1-9CCB-F7FFF01C6E42"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Black Spice",
+  "name": "Salt",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
