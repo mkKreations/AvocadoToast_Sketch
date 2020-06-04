@@ -1,11 +1,19 @@
 {
-  "_class": "group",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
-  "do_objectID": "27D1FA33-E226-499E-8B93-06FD6F418862",
+  "do_objectID": "F6AF519F-6B7E-42D3-BDCC-7390B84DF974",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F5FC9FE7-9739-4D62-8390-1148DD6DFAE4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,47 +24,56 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "34D9EF00-1536-48BA-9648-BBE489558C07",
-    "height": 219,
-    "width": 193,
-    "x": 18.85591708826146,
-    "y": 6.312698117053841
+    "height": 230,
+    "width": 230,
+    "x": -187,
+    "y": -284
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "BB402ED4-C967-4942-9279-1B676D1A04D0"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isFlowHome": false,
+  "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "6F0DE71A-8DBB-4D17-A342-7D3A91C58D7F"
-    },
-    {
-      "class": "group",
-      "id": "516280B4-4C74-4B8A-980D-DF16914D1522"
+      "id": "387057FA-8186-406A-9D0C-1E1337FD48E6"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Bread Slice",
-  "nameIsFixed": true,
+  "name": "Toppings/Avocados",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "113A3329-AC34-4152-9C04-5722FC10D2FE",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -67,7 +84,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "1081D1F2-2FDD-4CC8-ABD2-90E03FDC0B4D",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -78,7 +94,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "FD4D3B11-D500-49DE-B1AF-634C8D0445EF",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -86,10 +101,8 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "73C2C834-B948-4C58-93E6-94C5D890A6BF",
       "opacity": 1
     },
-    "do_objectID": "30A47EE9-C6F9-4028-857C-7F24BD021F66",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,5 +113,12 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "symbolID": "445E9182-F019-4CB5-AF64-C09705C2CF7D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }
