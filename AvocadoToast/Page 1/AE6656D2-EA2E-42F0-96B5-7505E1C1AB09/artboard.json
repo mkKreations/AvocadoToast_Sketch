@@ -64,6 +64,10 @@
     {
       "class": "group",
       "id": "CE522310-1BD0-4105-94A2-94D9882E9E37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A25F175C-0F9C-45EA-A340-4CFA6A8112C7"
     }
   ],
   "maintainScrollPosition": false,
