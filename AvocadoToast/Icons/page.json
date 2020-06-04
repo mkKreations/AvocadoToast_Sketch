@@ -82,6 +82,10 @@
     {
       "class": "shapePath",
       "id": "2E6407FC-103A-4701-ADF0-038ADE141E88"
+    },
+    {
+      "class": "oval",
+      "id": "AD7A6CBB-5C5E-4101-99E3-DF288361B901"
     }
   ],
   "maintainScrollPosition": false,
