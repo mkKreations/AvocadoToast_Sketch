@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 199,
-    "width": 168,
+    "width": 171,
     "x": 33,
     "y": 14
   },
@@ -28,7 +28,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -139,6 +139,38 @@
     {
       "class": "oval",
       "id": "739A23E2-BD0D-49C3-86C5-3C29B6CF7E1E"
+    },
+    {
+      "class": "oval",
+      "id": "CC6AED5B-8A2A-4EF3-86AD-15A973228844"
+    },
+    {
+      "class": "oval",
+      "id": "08DFDA2D-3AEC-4306-9A3A-8208AD8C612F"
+    },
+    {
+      "class": "oval",
+      "id": "2C9A51ED-CE7D-46D7-AF81-4F3BAD0470FD"
+    },
+    {
+      "class": "oval",
+      "id": "9318444B-89CA-4B16-8333-A8291ADB093A"
+    },
+    {
+      "class": "oval",
+      "id": "43F6E8E3-5675-4970-9FC9-19754AC6643B"
+    },
+    {
+      "class": "oval",
+      "id": "60496006-35C3-42B7-A2A8-5C5E006FE5F6"
+    },
+    {
+      "class": "oval",
+      "id": "5FB9FBFE-09D8-45CE-9F6B-D64F37809BA4"
+    },
+    {
+      "class": "oval",
+      "id": "004EB233-420B-4F97-9132-73D76938CB03"
     },
     {
       "class": "oval",
