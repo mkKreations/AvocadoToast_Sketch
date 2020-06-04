@@ -85,7 +85,11 @@
     },
     {
       "class": "oval",
-      "id": "AD7A6CBB-5C5E-4101-99E3-DF288361B901"
+      "id": "3D74A75E-F430-49B7-A640-81E9FF1945C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "E101D761-51F2-4927-94F6-B2078F5DC35B"
     }
   ],
   "maintainScrollPosition": false,
