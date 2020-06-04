@@ -1,10 +1,12 @@
 {
-  "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "A25F175C-0F9C-45EA-A340-4CFA6A8112C7",
+  "do_objectID": "6EC5E66F-FF61-47A0-B973-B395BB39C9E6",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "48337E63-F499-4CAA-BEB3-7F3F77683C2A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,72 +17,76 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44.79934459015471,
-    "width": 25.39226644084448,
-    "x": 52.53493704965926,
-    "y": 37.21990689697379
+    "do_objectID": "76B0B9D1-8832-4F73-BA23-FEDD5C0D2262",
+    "height": 4.360006021198774,
+    "width": 2.471145439615579,
+    "x": 10.39965578095567,
+    "y": 9.784618141924918
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": true,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
-  "isLocked": true,
-  "isVisible": false,
-  "layerListExpandedType": 1,
-  "layers": [
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Path 2 Copy 3",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "shapePath",
-      "id": "5450DACA-216E-4A73-B610-414534D3AAFD"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.82770123260252093, 0.98138373867089546}",
+      "curveMode": 4,
+      "curveTo": "{0.68797034007936864, 0.62652675326160612}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.8281557479139382, 0.94745632418707237}"
     },
     {
-      "class": "shapePath",
-      "id": "41E22E43-BD37-4FCC-99FE-E483FC5F9158"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.97133735840734181, 0.8254979152973273}",
+      "curveMode": 4,
+      "curveTo": "{0.97266605071544465, 1.0210190392945686}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99999999999999967, 0.98697601090797038}"
     },
     {
-      "class": "shapePath",
-      "id": "7ED05270-854F-4E13-B474-0CC2A8897353"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.073922315983632442, -0.018159283156854639}",
+      "curveMode": 4,
+      "curveTo": "{0.77981394832740902, 0.34011504590138142}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.12813353852951676, 0.0054825377496246219}"
     },
     {
-      "class": "shapePath",
-      "id": "C7F48C83-FC07-4922-A26E-6C186BC41A32"
-    },
-    {
-      "class": "shapePath",
-      "id": "E70E33F9-181A-494A-B2C8-3F7A0921DC03"
-    },
-    {
-      "class": "shapePath",
-      "id": "EF5B9C0F-2DF9-4BA7-8ACE-5084E5305933"
-    },
-    {
-      "class": "shapePath",
-      "id": "012358BC-CC66-4430-81A5-806B237E5DEA"
-    },
-    {
-      "class": "shapePath",
-      "id": "79D68AB6-D3A3-4F8B-97F9-CA528C385F2C"
-    },
-    {
-      "class": "shapePath",
-      "id": "7DD4AF54-09CD-4897-8E0A-58E5C091455A"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.37400973650757163, 0.28039789291692119}",
+      "curveMode": 4,
+      "curveTo": "{-0.047330630004331409, 0.039575618339157681}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.019674737893158184, 0.084889409054441534}"
     }
   ],
-  "maintainScrollPosition": false,
-  "name": "Herb 1",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -44,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "584E615C-C5C6-4877-8978-9CE8D79A85AC",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -91,6 +97,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "1DEB8C64-8E42-485E-B83E-E513D3D4787D",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -142,7 +149,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 0,
         "thickness": 0.3
       }
@@ -151,6 +158,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "CA5F13AB-D3A3-4D0A-9C47-7D86B93203CD",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -158,8 +166,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "CEC1BD53-ACD5-4755-9BD5-4AFD3A1B603E",
       "opacity": 1
     },
+    "do_objectID": "7B8F8A5A-17DF-47A6-94E8-1953DE45F401",
     "endMarkerType": 0,
     "fills": [
       {
@@ -167,9 +177,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1686274509803922,
-          "green": 0.5019607843137255,
-          "red": 0.2862745098039216
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -208,7 +218,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -222,6 +232,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "windingRule": 1
+  }
 }
