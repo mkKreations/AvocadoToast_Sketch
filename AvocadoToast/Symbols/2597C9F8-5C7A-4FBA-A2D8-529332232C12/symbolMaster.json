@@ -1,8 +1,17 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
-  "do_objectID": "3BBBC5D2-EFE3-4121-A18D-365F75094815",
+  "do_objectID": "2597C9F8-5C7A-4FBA-A2D8-529332232C12",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,66 +24,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 135,
+    "width": 135,
+    "x": -140,
+    "y": 586
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -406,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "3E634CC2-377E-436D-8CB0-BC1B695617B3"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "0413702D-1921-4157-802B-3629C524A849"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "F6AF519F-6B7E-42D3-BDCC-7390B84DF974"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "B85B67B6-1E06-4E74-B9DD-DADE0C194C60"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "2468B00F-45E2-4B40-8AE0-99DDB3C73A7B"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "BB41E4CF-ECC7-4FDF-9218-154AE331979D"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "2597C9F8-5C7A-4FBA-A2D8-529332232C12"
+      "class": "group",
+      "id": "BC4375AB-FF84-47CF-A233-947D3DA3720D"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Symbols",
-  "nameIsFixed": true,
+  "name": "Toppings/Egg",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -120,9 +114,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "578DC5B1-BF16-48E9-A07C-6E42EA209190",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -352,
+    "base": 0,
     "guides": [
     ]
   }

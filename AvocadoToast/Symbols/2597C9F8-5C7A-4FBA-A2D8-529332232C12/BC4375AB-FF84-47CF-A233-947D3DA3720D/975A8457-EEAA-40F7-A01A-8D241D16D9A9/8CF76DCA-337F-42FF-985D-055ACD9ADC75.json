@@ -2,10 +2,11 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D74A75E-F430-49B7-A640-81E9FF1945C9",
+  "do_objectID": "8CF76DCA-337F-42FF-985D-055ACD9ADC75",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "ADFD5960-9D8A-448E-B32C-EBBFB1F8F2CC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 49,
-    "width": 48,
-    "x": 0,
-    "y": 0
+    "do_objectID": "139A4BA9-DC85-4A68-AA84-C1222ABBE70C",
+    "height": 9,
+    "width": 6,
+    "x": 11,
+    "y": 6.999999999999943
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -30,7 +32,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Yoke",
+  "name": "Yoke Gleam",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -77,13 +79,14 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -57,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "F2ACDE73-578A-4965-A541-E437EF5606C9",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -94,6 +97,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "6C20C138-70D1-48C7-A402-B1FC9DEA7E32",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -154,6 +158,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "76307354-22EB-4854-B72D-16D66C442B6B",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -161,8 +166,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "7D0CCAD3-E3EB-4676-AA2E-134EC730B2A2",
       "opacity": 1
     },
+    "do_objectID": "522A9888-FF2B-4216-A424-425A4C5896F5",
     "endMarkerType": 0,
     "fills": [
       {
@@ -170,9 +177,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1490196078431373,
-          "green": 0.6470588235294118,
-          "red": 0.984313725490196
+          "blue": 0.9647058823529412,
+          "green": 1,
+          "red": 0.9921568627450981
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
