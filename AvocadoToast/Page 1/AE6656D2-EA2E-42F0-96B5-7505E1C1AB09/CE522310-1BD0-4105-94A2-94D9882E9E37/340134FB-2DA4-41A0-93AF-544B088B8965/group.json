@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "4246CE44-5647-45E8-8C4B-E0DC6E1ADAD8",
+  "do_objectID": "340134FB-2DA4-41A0-93AF-544B088B8965",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,30 +12,49 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 230,
-    "width": 230,
-    "x": 211,
-    "y": -83
+    "constrainProportions": false,
+    "height": 156,
+    "width": 153,
+    "x": 19.53493704965926,
+    "y": 23.21990689697379
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/02693d9bc933b8020392df38e03d356050ac5a75.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A25F175C-0F9C-45EA-A340-4CFA6A8112C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1FFEA904-53A4-4FA7-9537-52D948B10159"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6674B909-ABF1-433D-8AD9-5E40241474C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9686EF9-1524-4A2F-A190-0C82970809F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F97B597F-CFA3-47E3-A003-685406FD6CB7"
+    }
+  ],
   "maintainScrollPosition": false,
-  "name": "Toast Egg Offset",
+  "name": "Herbs",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

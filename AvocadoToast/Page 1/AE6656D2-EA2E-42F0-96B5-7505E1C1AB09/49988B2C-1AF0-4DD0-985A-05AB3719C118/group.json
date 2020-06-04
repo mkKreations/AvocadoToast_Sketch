@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "4246CE44-5647-45E8-8C4B-E0DC6E1ADAD8",
+  "do_objectID": "49988B2C-1AF0-4DD0-985A-05AB3719C118",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,30 +12,37 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 230,
-    "width": 230,
-    "x": 211,
-    "y": -83
+    "constrainProportions": false,
+    "height": 198,
+    "width": 176,
+    "x": 26.94188451943275,
+    "y": 16
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/02693d9bc933b8020392df38e03d356050ac5a75.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7969D9AD-3FBD-41F4-93BF-B46E8E09574E"
+    },
+    {
+      "class": "group",
+      "id": "FB65BB6F-BE0B-42C1-9CCB-F7FFF01C6E42"
+    }
+  ],
   "maintainScrollPosition": false,
-  "name": "Toast Egg Offset",
+  "name": "Salt & Pepper",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
