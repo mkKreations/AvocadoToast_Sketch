@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "34B3E52B-251B-4DD7-9779-C5E390334BF8",
+  "do_objectID": "AA4E74FB-AED3-46B4-ACED-DA485097B63B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,77 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 122,
+    "width": 124,
+    "x": 496.1108549276903,
+    "y": -170.4256756367055
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "C0DF7661-DC85-4245-9829-D250B717C8F6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A2A2D16A-D274-4D4C-B83F-5170DBBB9A80"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3E093A02-3297-496A-9293-26BAED30678E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EB12CEE2-E350-4603-959E-D3D81F38CAEF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CCE29FC2-2A87-47F2-A261-7C86913E2CE5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D6888CC6-D1D5-40A6-BD41-D6020D7B94C4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "88F841DE-8C7C-4FEE-B013-C3F0662FBEE8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "27059427-EB00-43E2-A728-CF431CB3870F"
-    },
-    {
-      "class": "bitmap",
-      "id": "7DFA4E7D-4C54-475A-8602-271E65F71D5D"
-    },
-    {
-      "class": "bitmap",
-      "id": "BE9E7942-5DFC-4E67-A09D-AC11DC6BF59E"
+      "class": "shapePath",
+      "id": "2E6407FC-103A-4701-ADF0-038ADE141E88"
     },
     {
       "class": "group",
-      "id": "AA4E74FB-AED3-46B4-ACED-DA485097B63B"
+      "id": "9643AD9A-1AFE-4BC6-9CB3-8C6D50B940A7"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Icons",
+  "name": "Egg",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -135,11 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
