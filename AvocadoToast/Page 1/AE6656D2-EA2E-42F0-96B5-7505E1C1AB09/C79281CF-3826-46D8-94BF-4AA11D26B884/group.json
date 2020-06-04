@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "23984860-7171-4789-88E3-529F455D49B7",
+  "do_objectID": "C79281CF-3826-46D8-94BF-4AA11D26B884",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 219,
-    "width": 193,
-    "x": 18.85591708826146,
-    "y": 6.312698117053841
+    "height": 11,
+    "width": 11,
+    "x": 27.94188451943274,
+    "y": 195
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -28,21 +28,25 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
-  "isVisible": false,
-  "layerListExpandedType": 1,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "C43B3BDB-13BF-4DF8-838D-657E4483B680"
+      "class": "shapePath",
+      "id": "007B881A-0B7A-429D-A3A9-6A8691ECEFF1"
     },
     {
-      "class": "group",
-      "id": "4457B3A8-64C6-4F1C-B47E-B349E6C533AF"
+      "class": "rectangle",
+      "id": "12D305AD-3DE8-4682-A1E5-41543CD0A1E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "24DEC47D-6604-453F-BD63-5FDA1B51B53C"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Bread Slice",
+  "name": "Pepper Seed",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
