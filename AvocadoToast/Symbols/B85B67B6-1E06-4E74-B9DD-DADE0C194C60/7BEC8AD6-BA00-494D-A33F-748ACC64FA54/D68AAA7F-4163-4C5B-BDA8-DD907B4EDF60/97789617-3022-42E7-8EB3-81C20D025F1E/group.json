@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3BBBC5D2-EFE3-4121-A18D-365F75094815",
+  "do_objectID": "97789617-3022-42E7-8EB3-81C20D025F1E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "678841F9-5DF1-4156-A937-C637A053BCB9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,59 +16,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "4971E95A-CF50-4E4C-A19E-9B25A6E10BFC",
+    "height": 8,
+    "width": 8,
+    "x": 90.05811548056727,
+    "y": 144
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "55AF6EFA-3924-4DC2-825E-33BCE3EDF836"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -406,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "3E634CC2-377E-436D-8CB0-BC1B695617B3"
+      "class": "shapePath",
+      "id": "C3DCF065-B631-4769-A941-25F6CF1F1917"
     },
     {
-      "class": "symbolMaster",
-      "id": "0413702D-1921-4157-802B-3629C524A849"
+      "class": "rectangle",
+      "id": "EB7C2B12-56EC-4274-854C-C5356868110E"
     },
     {
-      "class": "symbolMaster",
-      "id": "F6AF519F-6B7E-42D3-BDCC-7390B84DF974"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "B85B67B6-1E06-4E74-B9DD-DADE0C194C60"
+      "class": "rectangle",
+      "id": "CB3BEA71-8733-4B65-B183-792F2E6AC56A"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Symbols",
+  "name": "Pepper Seed Copy 10",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -191,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "BC3A3DBD-AB5F-42F2-AC9D-F683D0F1904A",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -78,6 +71,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "E7897A35-01F0-4C9F-AA8B-E7D3DDC81600",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -88,6 +82,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "C69D5DE0-52A5-43F7-9422-6F1D488B3BB3",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -95,8 +90,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "A52D19D3-D238-418F-A425-52F29B9654CE",
       "opacity": 1
     },
+    "do_objectID": "87BC1C72-FCDC-480B-8D92-E3FDAE65A27D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -107,11 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -352,
-    "guides": [
-    ]
   }
 }

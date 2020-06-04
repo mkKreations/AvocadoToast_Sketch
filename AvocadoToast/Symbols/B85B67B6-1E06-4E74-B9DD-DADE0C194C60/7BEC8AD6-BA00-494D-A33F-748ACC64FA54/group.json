@@ -1,10 +1,11 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3BBBC5D2-EFE3-4121-A18D-365F75094815",
+  "do_objectID": "7BEC8AD6-BA00-494D-A33F-748ACC64FA54",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "67E25074-60CC-4A37-94D1-890E7298CAC1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,49 +16,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "do_objectID": "C1EC280B-130D-40C8-8678-F5A6AE9D6390",
+    "height": 198,
+    "width": 176,
+    "x": 26.94188451943275,
+    "y": 16
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AB9FCEE9-1C6C-4139-B8F0-C58257022C7B"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -406,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "3E634CC2-377E-436D-8CB0-BC1B695617B3"
+      "class": "group",
+      "id": "1A902212-9F18-4043-8664-03B1EF8A3DFD"
     },
     {
-      "class": "symbolMaster",
-      "id": "0413702D-1921-4157-802B-3629C524A849"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "F6AF519F-6B7E-42D3-BDCC-7390B84DF974"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "B85B67B6-1E06-4E74-B9DD-DADE0C194C60"
+      "class": "group",
+      "id": "D68AAA7F-4163-4C5B-BDA8-DD907B4EDF60"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Symbols",
+  "name": "Salt & Pepper",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,6 +56,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "1660A9D4-242F-4F63-879E-1358BA4057D5",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -78,6 +67,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "98B3A111-45C6-4B03-BF87-02E3DDF0FC84",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -88,6 +78,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "40F41DAC-B016-464D-8A78-4C489EB0D1A2",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -95,8 +86,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "86CD8004-0DFB-4B7A-8FAF-B00D3DC1C6CA",
       "opacity": 1
     },
+    "do_objectID": "0F0BDF8E-AEDD-4B37-9A5C-85DA5AF1CB63",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -107,11 +100,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -352,
-    "guides": [
-    ]
   }
 }
