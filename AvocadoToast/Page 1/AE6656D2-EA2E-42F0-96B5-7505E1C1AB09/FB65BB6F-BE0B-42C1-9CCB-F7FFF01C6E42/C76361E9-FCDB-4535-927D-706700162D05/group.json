@@ -1,17 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AE6656D2-EA2E-42F0-96B5-7505E1C1AB09",
+  "do_objectID": "C76361E9-FCDB-4535-927D-706700162D05",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "619CD522-8310-49C6-9C8F-CD87E8F22051",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,65 +16,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 230,
-    "width": 230,
-    "x": -36,
-    "y": -83
+    "do_objectID": "2751D5A7-87D0-4D24-89B6-C814217C0358",
+    "height": 9,
+    "width": 9,
+    "x": 34.05811548056725,
+    "y": 7
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "02B6BA3C-0C82-42BA-8D67-6E7A5D1C43B2"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
-  "isFlowHome": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "23984860-7171-4789-88E3-529F455D49B7"
+      "class": "shapePath",
+      "id": "3FA6B5F7-7623-41E7-932F-94A6F8255557"
     },
     {
-      "class": "group",
-      "id": "D2AD5C41-C224-49EE-BC43-A65155B443E3"
+      "class": "rectangle",
+      "id": "4A44903F-FFF4-46A2-990E-C89F42F29DD5"
     },
     {
-      "class": "group",
-      "id": "7969D9AD-3FBD-41F4-93BF-B46E8E09574E"
-    },
-    {
-      "class": "group",
-      "id": "FB65BB6F-BE0B-42C1-9CCB-F7FFF01C6E42"
+      "class": "rectangle",
+      "id": "6A45A787-5C86-4F91-BF14-0A419651A00C"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Toast",
+  "name": "Pepper Seed Copy 18",
   "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "rotation": -81,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "0223CBD2-3C2A-4D0B-9FA6-497F3CE9459C",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -91,6 +71,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "C2A661C3-6ED5-46CF-8EE3-B65CB3A37924",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -101,6 +82,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "E722C5D8-A704-49AC-A67B-9080A764D899",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -108,8 +90,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "10478B89-4307-4862-81B9-38638DB9786C",
       "opacity": 1
     },
+    "do_objectID": "E7D83BF2-6E75-4142-9201-D995FA74D6ED",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,11 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
