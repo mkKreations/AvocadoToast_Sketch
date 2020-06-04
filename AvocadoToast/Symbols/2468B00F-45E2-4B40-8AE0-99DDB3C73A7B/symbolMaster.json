@@ -1,8 +1,17 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 6,
   "clippingMaskMode": 0,
-  "do_objectID": "3BBBC5D2-EFE3-4121-A18D-365F75094815",
+  "do_objectID": "2468B00F-45E2-4B40-8AE0-99DDB3C73A7B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,58 +24,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 230,
+    "width": 230,
+    "x": -187,
+    "y": 296
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -406,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "3E634CC2-377E-436D-8CB0-BC1B695617B3"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "0413702D-1921-4157-802B-3629C524A849"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "F6AF519F-6B7E-42D3-BDCC-7390B84DF974"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "B85B67B6-1E06-4E74-B9DD-DADE0C194C60"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "2468B00F-45E2-4B40-8AE0-99DDB3C73A7B"
+      "class": "group",
+      "id": "1FF0224A-9ED5-42F4-9164-E32131C5EEA0"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Symbols",
-  "nameIsFixed": true,
+  "name": "Toppings/Spices & Herbs",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -112,9 +114,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B1FAB2BA-5BBF-4BCF-B6CF-234BFCB61DB2",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -352,
+    "base": 0,
     "guides": [
     ]
   }
