@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53CEFCCA-5486-4495-8D97-9C392FB3BBFE",
+  "do_objectID": "3E093A02-3297-496A-9293-26BAED30678E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5975ABFF-52E3-4ACF-8B43-9FA1AD701F73",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,23 +16,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
+    "do_objectID": "C00936D4-0826-4566-8213-F663849A9007",
+    "height": 230,
     "width": 230,
-    "x": 0,
-    "y": -0.09336707342595219
+    "x": 141,
+    "y": 553
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Toppings/Avocados",
-  "nameIsFixed": false,
+  "name": "Rye - Salt & Pepper",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "459D8B7F-E7DD-45D9-B479-1CBC5014B61E",
+      "overrideName": "24697894-7A59-48B0-A8BF-BAD3CC737FAA_symbolID",
+      "value": "8F6175FD-73E8-4060-B0A3-9408400A1CFA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD5CD67F-19CE-43F4-AA29-FEC72352A863",
+      "overrideName": "0A6EDC3C-2247-410E-8FAF-787C27BF1519_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,6 +57,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "F879DE2B-90FD-4BF6-BEBE-3BDAD42A36AC",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -53,6 +68,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "A0499054-454F-4A64-8FE0-51D52A706E90",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -63,6 +79,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "7649DBD6-FBB5-4941-95BA-502661E64BB4",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -70,8 +87,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "D4C6CC7F-E371-40DD-88DB-43836B1BC40C",
       "opacity": 1
     },
+    "do_objectID": "1504D5BE-1EDA-4F74-998B-58159EF63C90",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +102,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "445E9182-F019-4CB5-AF64-C09705C2CF7D",
+  "symbolID": "B5A49AD4-D33D-4479-A18E-93902442A428",
   "verticalSpacing": 0
 }

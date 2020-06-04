@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53CEFCCA-5486-4495-8D97-9C392FB3BBFE",
+  "do_objectID": "88F841DE-8C7C-4FEE-B013-C3F0662FBEE8",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "577D2D15-3CBE-4C02-A857-006EAEAA8D33",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,23 +16,30 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
+    "do_objectID": "85EBDC00-0CC7-432D-8948-DAA059FD19CA",
+    "height": 230,
     "width": 230,
-    "x": 0,
-    "y": -0.09336707342595219
+    "x": 442,
+    "y": 553
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Toppings/Avocados",
-  "nameIsFixed": false,
+  "name": "White - Salt & Pepper",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "825EB1A4-623C-41E7-B02D-7AB6A8626439",
+      "overrideName": "0A6EDC3C-2247-410E-8FAF-787C27BF1519_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,6 +51,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "CADFA55C-E294-46C2-99B2-18C1A9B2F7E8",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -53,6 +62,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "CF4607C0-CE9E-488C-9CA7-08F457C41C58",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -63,6 +73,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "9580BB48-1315-4CE2-8B59-5AF316176F88",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -70,8 +81,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "EF4547C3-FE3A-4A24-A5A6-55FA0ACDB772",
       "opacity": 1
     },
+    "do_objectID": "ACEAC677-1FD0-4A76-87EA-321D803230D2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +96,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "445E9182-F019-4CB5-AF64-C09705C2CF7D",
+  "symbolID": "B5A49AD4-D33D-4479-A18E-93902442A428",
   "verticalSpacing": 0
 }

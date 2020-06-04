@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53CEFCCA-5486-4495-8D97-9C392FB3BBFE",
+  "do_objectID": "CCE29FC2-2A87-47F2-A261-7C86913E2CE5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,22 +15,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
+    "height": 230,
     "width": 230,
-    "x": 0,
-    "y": -0.09336707342595219
+    "x": 442,
+    "y": 31
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Toppings/Avocados",
-  "nameIsFixed": false,
+  "name": "White - Full",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "445E9182-F019-4CB5-AF64-C09705C2CF7D",
+  "symbolID": "B5A49AD4-D33D-4479-A18E-93902442A428",
   "verticalSpacing": 0
 }

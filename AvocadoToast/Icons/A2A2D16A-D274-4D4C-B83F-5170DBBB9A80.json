@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53CEFCCA-5486-4495-8D97-9C392FB3BBFE",
+  "do_objectID": "A2A2D16A-D274-4D4C-B83F-5170DBBB9A80",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,35 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
+    "height": 230,
     "width": 230,
-    "x": 0,
-    "y": -0.09336707342595219
+    "x": 141,
+    "y": 292
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Toppings/Avocados",
-  "nameIsFixed": false,
+  "name": "Rye - Herbs & Spices",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "459D8B7F-E7DD-45D9-B479-1CBC5014B61E",
+      "overrideName": "24697894-7A59-48B0-A8BF-BAD3CC737FAA_symbolID",
+      "value": "8F6175FD-73E8-4060-B0A3-9408400A1CFA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "598F4C60-6775-48F9-9AE4-27068C627686",
+      "overrideName": "9A769AA3-1148-4641-9504-AB836B289B49_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -83,6 +95,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "445E9182-F019-4CB5-AF64-C09705C2CF7D",
+  "symbolID": "B5A49AD4-D33D-4479-A18E-93902442A428",
   "verticalSpacing": 0
 }

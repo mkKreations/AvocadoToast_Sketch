@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53CEFCCA-5486-4495-8D97-9C392FB3BBFE",
+  "do_objectID": "27059427-EB00-43E2-A728-CF431CB3870F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E789349F-35F2-41AB-98BB-DB12CC41F6EE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,23 +16,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
+    "do_objectID": "F30679FA-5632-4E71-80DC-BC1E0349E626",
+    "height": 230,
     "width": 230,
-    "x": 0,
-    "y": -0.09336707342595219
+    "x": 442,
+    "y": 814
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Toppings/Avocados",
-  "nameIsFixed": false,
+  "name": "White - Avocads",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "825EB1A4-623C-41E7-B02D-7AB6A8626439",
+      "overrideName": "0A6EDC3C-2247-410E-8FAF-787C27BF1519_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E0161A2-119D-4D0E-9893-C93A604EED0D",
+      "overrideName": "9A769AA3-1148-4641-9504-AB836B289B49_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,6 +57,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "E13ADBEA-8F5F-409D-BF7D-3D64BB3111E0",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -53,6 +68,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "0BFF67D6-9268-4444-854A-8544D5CEF7A6",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -63,6 +79,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "85F588FD-80B0-4793-8B8D-C0B721778472",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -70,8 +87,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "EE362B1D-4AAD-47D8-A9A4-E520D64F438D",
       "opacity": 1
     },
+    "do_objectID": "F84E9279-8EA7-468A-B641-D5144C424A56",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +102,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "445E9182-F019-4CB5-AF64-C09705C2CF7D",
+  "symbolID": "B5A49AD4-D33D-4479-A18E-93902442A428",
   "verticalSpacing": 0
 }
