@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6674B909-ABF1-433D-8AD9-5E40241474C5",
+  "do_objectID": "F9686EF9-1524-4A2F-A190-0C82970809F6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "82DA90A9-1B37-4772-85EF-CCE1EF3284F5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,15 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BD38CB84-F1B0-4119-8D39-55D36FCCF3C2",
-    "height": 27.48848872335592,
-    "width": 16,
-    "x": 183.5232390262034,
-    "y": 142.7923667435924
+    "height": 43.98358787921905,
+    "width": 22,
+    "x": 135.1862707058143,
+    "y": 155.0619676632996
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F1EB912E-C69C-4B4F-BF3B-7113C3261B29"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -37,54 +34,53 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "95F7542C-7C82-4D65-ACAE-A83DD673B345"
+      "id": "19E44B04-D99B-4C68-BB7B-5E527FE3D1F1"
     },
     {
       "class": "shapePath",
-      "id": "A2B29028-CB12-4707-A3B6-9CDDD9E54193"
+      "id": "DFD5D08B-8A88-4C90-958F-B63C44F7BA11"
     },
     {
       "class": "shapePath",
-      "id": "D3F09093-8AD6-4E4C-AAFE-2C15D61DB44A"
+      "id": "E774F7ED-4A31-4E7D-A381-72AB77F46D7F"
     },
     {
       "class": "shapePath",
-      "id": "511703D4-2FFA-41D9-8653-3ED1112397D3"
+      "id": "3D61EE11-439A-42C9-A44E-515504B1E9E6"
     },
     {
       "class": "shapePath",
-      "id": "7DB5223E-CE74-436D-A286-4F434BB29BF6"
+      "id": "5D39D7A0-3639-47A9-AD5C-28A6DF958738"
     },
     {
       "class": "shapePath",
-      "id": "034CDC3D-7453-4C99-8352-E9C9F8E8E917"
+      "id": "EE08E662-50F6-44E7-96AB-64EF56684FAE"
     },
     {
       "class": "shapePath",
-      "id": "9511E1EE-AE81-42EE-9060-DDB97C696799"
+      "id": "A275E5A9-F489-478A-9023-CB21033E5470"
     },
     {
       "class": "shapePath",
-      "id": "F19D93B4-7A75-45A4-B444-64C49B7DE195"
+      "id": "D73270E5-8D22-4976-8038-E8B5BE7131E7"
     },
     {
       "class": "shapePath",
-      "id": "6EC5E66F-FF61-47A0-B973-B395BB39C9E6"
+      "id": "A72C9D82-EAB1-4176-A9A1-7F14CE4EB7DA"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Herb 3",
+  "name": "Herb 4",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -31,
+  "rotation": -77,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "C9C08951-61DD-412F-B3A0-97803528CF3D",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -95,7 +91,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "9471906D-3794-4635-B6AA-58ACBF958C76",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -156,7 +151,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "F47DA78A-962E-4063-86C1-2089C1702789",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -164,10 +158,8 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "2362F24D-16DB-48C2-9154-A8A149906535",
       "opacity": 1
     },
-    "do_objectID": "65B12F63-C4DE-43A2-98C2-7B855BA3B2E7",
     "endMarkerType": 0,
     "fills": [
       {
