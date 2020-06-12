@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "FD48B43B-9312-4F84-810D-D328AFEB73F2",
+  "do_objectID": "661E8808-DB65-4DE0-9F5E-82BE63ADDBB2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,7 +19,7 @@
     "constrainProportions": true,
     "height": 280,
     "width": 280,
-    "x": 493,
+    "x": 796,
     "y": -674
   },
   "hasClippingMask": false,
@@ -32,11 +32,11 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
-  "isVisible": false,
+  "isLocked": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Reference Image",
+  "name": "Reference Image Copy",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

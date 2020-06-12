@@ -1,9 +1,15 @@
 {
-  "_class": "bitmap",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "FD48B43B-9312-4F84-810D-D328AFEB73F2",
+  "do_objectID": "E0AD262C-A051-4FCC-9955-06C3FE62B3E3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,35 +19,51 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "height": 280,
     "width": 280,
     "x": 493,
     "y": -674
   },
-  "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/11dcef5f787fc8f3114506ee6743d8492b51d11f.png",
-    "_ref_class": "MSImageData"
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
   },
-  "intendedDPI": 72,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
-  "isVisible": false,
-  "layerListExpandedType": 0,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A51B00C0-656D-49CC-8B28-42FDE7F60C25"
+    }
+  ],
   "maintainScrollPosition": false,
-  "name": "Reference Image",
+  "name": "Avocado Icon",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -86,5 +108,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }
