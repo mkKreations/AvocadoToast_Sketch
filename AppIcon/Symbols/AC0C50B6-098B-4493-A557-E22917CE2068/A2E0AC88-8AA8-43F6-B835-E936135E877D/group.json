@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "41C853B5-E0F2-4661-87BD-819471A4C4CB",
+  "do_objectID": "A2E0AC88-8AA8-43F6-B835-E936135E877D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1B66FFBA-DA00-42C7-B81F-D0EBB1F756B2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,13 +16,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8E91A6F4-ECD9-48D9-B096-4ADF84150BF9",
     "height": 197,
     "width": 152,
     "x": 64.09931938230152,
     "y": 41.80332966551336
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7522ACBE-DE4E-4E2A-A52E-4D1EFD2D9703"
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,15 +37,15 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "A51B00C0-656D-49CC-8B28-42FDE7F60C25"
+      "id": "C7F96ACF-2AB4-4152-BBF8-C380E9CB90BA"
     },
     {
       "class": "shapePath",
-      "id": "BDFBF432-69E9-4CD0-9CB6-9AE978FA3DDD"
+      "id": "6A5437E6-4991-4F09-A1A8-75E44E85AA27"
     },
     {
       "class": "shapePath",
-      "id": "DB59A447-31F2-4596-8722-4851AF1F62B3"
+      "id": "0C361B0D-BE9A-4A25-ACA3-D66C67CC74CA"
     }
   ],
   "maintainScrollPosition": false,
@@ -57,6 +60,7 @@
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "AD7BDBBE-F84A-497F-B6C9-7DD79AC0FA9B",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -67,6 +71,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "6F73991E-F619-441E-82F7-1E86C201776F",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -77,6 +82,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "ECB60390-2E70-4E18-8098-388C3B1A87D5",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -84,8 +90,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "D9CFB358-F8B8-4438-9D4A-23F4E7F374D6",
       "opacity": 1
     },
+    "do_objectID": "953075F1-083E-4763-9A17-BE5D1FCBB28A",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -1,17 +1,11 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E0AD262C-A051-4FCC-9955-06C3FE62B3E3",
+  "do_objectID": "7C4AE2D4-4F1D-4889-901E-0A7823F0E6B9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C3107110-5398-4716-910C-3E0BAB327CFE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,57 +16,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 280,
-    "width": 280,
-    "x": 493,
-    "y": -674
+    "do_objectID": "EE43CCE6-59F0-4389-8DCC-7E8B48FC1C16",
+    "height": 78,
+    "width": 74,
+    "x": 99,
+    "y": 117
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D37A58BA-2A4A-4088-B8A0-49482F2F1281"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "41C853B5-E0F2-4661-87BD-819471A4C4CB"
+      "class": "oval",
+      "id": "A3236B3B-8D55-49FF-9176-1DA756349311"
     },
     {
-      "class": "group",
-      "id": "FFF4EE9C-02E9-45E5-BDE8-FF990928DC44"
+      "class": "oval",
+      "id": "4FB127ED-D2CE-4578-9EE5-5CE28056EF12"
+    },
+    {
+      "class": "oval",
+      "id": "57A704C0-2F97-4E94-8449-A522C4714756"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Avocado Icon",
+  "name": "Pit",
   "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
+      "do_objectID": "CB39EED7-E834-4180-B0EB-83D399D0B6ED",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -83,6 +71,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "35658A12-708A-4758-9163-A6AA2A6C30DF",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -93,6 +82,7 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
+      "do_objectID": "967C0727-EC8C-4C0F-B82E-A325762CCCD5",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -100,8 +90,10 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
+      "do_objectID": "7738B480-29DD-456C-9661-060EF78A57CA",
       "opacity": 1
     },
+    "do_objectID": "91060166-3C76-41F8-8797-52096ACCE1DC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,11 +104,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
