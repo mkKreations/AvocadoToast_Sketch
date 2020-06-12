@@ -1,4 +1,4 @@
-# Avocado Toast app Sketch Project
+# AvocadoToast Sketch 
 
 
 Click here to visit the iOS app - [AvocadoToast iOS app - SwiftUI](https://github.com/mkKreations/AvocadoToast)
@@ -15,7 +15,7 @@ since most of Sketch files are large image files and JSON.
 
 ## Screenshots
 
-A few screenshots of some of the assets produced
+A few screenshots of some of the assets produced in the projects:
 
 
 ### Assets 
