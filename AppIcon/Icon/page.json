@@ -104,16 +104,20 @@
       "id": "3C5B9C58-693A-497A-962D-D8FC7010D82F"
     },
     {
-      "class": "bitmap",
-      "id": "FD48B43B-9312-4F84-810D-D328AFEB73F2"
-    },
-    {
       "class": "artboard",
       "id": "E0AD262C-A051-4FCC-9955-06C3FE62B3E3"
     },
     {
       "class": "bitmap",
+      "id": "FD48B43B-9312-4F84-810D-D328AFEB73F2"
+    },
+    {
+      "class": "bitmap",
       "id": "661E8808-DB65-4DE0-9F5E-82BE63ADDBB2"
+    },
+    {
+      "class": "oval",
+      "id": "B2ACC6E1-8F31-4F11-A79A-B62E77F94CE9"
     }
   ],
   "maintainScrollPosition": false,

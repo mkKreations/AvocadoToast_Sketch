@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E0AD262C-A051-4FCC-9955-06C3FE62B3E3",
+  "do_objectID": "41C853B5-E0F2-4661-87BD-819471A4C4CB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,48 +15,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 280,
-    "width": 280,
-    "x": 493,
-    "y": -674
+    "height": 197,
+    "width": 152,
+    "x": 64.09931938230152,
+    "y": 41.80332966551336
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "41C853B5-E0F2-4661-87BD-819471A4C4CB"
+      "class": "shapePath",
+      "id": "A51B00C0-656D-49CC-8B28-42FDE7F60C25"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDFBF432-69E9-4CD0-9CB6-9AE978FA3DDD"
+    },
+    {
+      "class": "shapePath",
+      "id": "DB59A447-31F2-4596-8722-4851AF1F62B3"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Avocado Icon",
+  "name": "Fruit/Exterior",
   "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -108,11 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
