@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "48BCDD92-A39E-462C-86D8-F90EBE586ED2",
+  "do_objectID": "BF49F4BC-E739-4440-86CB-7455C1F6B3EC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 50,
-    "width": 49,
-    "x": 36,
-    "y": 34
+    "constrainProportions": true,
+    "height": 203.236393442623,
+    "width": 208.36,
+    "x": 11,
+    "y": 13.00000000000001
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,27 +30,19 @@
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "DBA45D4F-AD1F-451F-AD83-530F2B0BE646"
-    },
-    {
       "class": "shapePath",
-      "id": "E44BF709-4885-42E5-BB9F-86DB82182117"
+      "id": "5CC873FB-94B1-4A9F-B639-310CBA9FB744"
     },
     {
-      "class": "shapePath",
-      "id": "9F6C9525-6BD2-4FCB-AB45-276B652A7797"
-    },
-    {
-      "class": "oval",
-      "id": "13E74563-C79C-4BA1-BD58-7E6D5FFFAEAD"
+      "class": "group",
+      "id": "48BCDD92-A39E-462C-86D8-F90EBE586ED2"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "Yoke",
+  "name": "Egg",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

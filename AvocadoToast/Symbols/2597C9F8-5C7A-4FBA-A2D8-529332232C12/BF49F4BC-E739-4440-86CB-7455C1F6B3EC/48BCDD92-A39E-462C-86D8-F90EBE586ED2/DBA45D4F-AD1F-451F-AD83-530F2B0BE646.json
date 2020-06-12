@@ -1,9 +1,9 @@
 {
-  "_class": "shapePath",
-  "booleanOperation": 0,
+  "_class": "oval",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E44BF709-4885-42E5-BB9F-86DB82182117",
-  "edited": true,
+  "do_objectID": "DBA45D4F-AD1F-451F-AD83-530F2B0BE646",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38.48309967770436,
-    "width": 40.35599486782922,
-    "x": 8.595055648231241,
-    "y": 10.99999999999995
+    "height": 81.97770491803335,
+    "width": 80.2698360655743,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -30,39 +30,49 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Yoke Shadow",
+  "name": "Yoke",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0331774743550173, 0.11537239834869169}",
-      "curveMode": 4,
-      "curveTo": "{1.1268795833165217, 0.42365499772523679}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.85465446627907782, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.64616763689541812, 1.1046623931919231}",
+      "curveFrom": "{0.77614237490000004, 1}",
       "curveMode": 2,
-      "curveTo": "{1.0631412956627357, 0.60604419166254508}",
+      "curveTo": "{0.22385762510000001, 1}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.85465446627907693, 0.85535329242723468}"
+      "point": "{0.5, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.75267752913636266, 1.2217374816469018}",
-      "curveMode": 4,
-      "curveTo": "{0.10642615383004857, 0.99151506387555077}",
+      "curveFrom": "{1, 0.22385762510000001}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.77614237490000004}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0, 0.81712379947202585}"
+      "point": "{1, 0.5}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762510000001, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237490000004, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77614237490000004}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000001}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
   "resizingConstraint": 63,
@@ -160,20 +170,20 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5450980392156862,
-          "green": 0.8392156862745098,
-          "red": 0.9921568627450981
+          "blue": 0.1490196078431373,
+          "green": 0.6470588235294118,
+          "red": 0.984313725490196
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.87933130241838897, 0.75598693613334056}",
+          "from": "{0.5, 0}",
           "gradientType": 0,
           "stops": [
             {
@@ -181,9 +191,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.817665038609429,
-                "green": 0.9366562862937776,
-                "red": 0.9839504076086957
+                "blue": 1,
+                "green": 1,
+                "red": 1
               },
               "position": 0
             },
@@ -192,14 +202,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.5450980392156862,
-                "green": 0.8392156862745098,
-                "red": 0.9921568627450981
+                "blue": 0,
+                "green": 0,
+                "red": 0
               },
               "position": 1
             }
           ],
-          "to": "{0.41192720986531883, 0.43750929682663253}"
+          "to": "{0.5, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
