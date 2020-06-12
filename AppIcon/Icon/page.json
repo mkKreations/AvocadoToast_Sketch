@@ -114,14 +114,6 @@
     {
       "class": "bitmap",
       "id": "661E8808-DB65-4DE0-9F5E-82BE63ADDBB2"
-    },
-    {
-      "class": "oval",
-      "id": "B2ACC6E1-8F31-4F11-A79A-B62E77F94CE9"
-    },
-    {
-      "class": "oval",
-      "id": "6ADAEE18-03F0-423A-8A2C-247A5329AAF7"
     }
   ],
   "maintainScrollPosition": false,
