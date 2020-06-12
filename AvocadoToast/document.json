@@ -225,8 +225,74 @@
     "exportPresets": [
     ],
     "gradientAssets": [
+      {
+        "_class": "MSImmutableGradientAsset",
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.87933130241838897, 0.75598693613334056}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.817665038609429,
+                "green": 0.9366562862937776,
+                "red": 0.9839504076086957
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.5450980392156862,
+                "green": 0.8392156862745098,
+                "red": 0.9921568627450981
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.41192720986531883, 0.43750929682663253}"
+        },
+        "name": "Yoke Shadow"
+      }
     ],
     "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 0,
+        "from": "{0.87933130241838897, 0.75598693613334056}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.817665038609429,
+              "green": 0.9366562862937776,
+              "red": 0.9839504076086957
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.5450980392156862,
+              "green": 0.8392156862745098,
+              "red": 0.9921568627450981
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.41192720986531883, 0.43750929682663253}"
+      }
     ],
     "imageCollection": {
       "_class": "imageCollection",
