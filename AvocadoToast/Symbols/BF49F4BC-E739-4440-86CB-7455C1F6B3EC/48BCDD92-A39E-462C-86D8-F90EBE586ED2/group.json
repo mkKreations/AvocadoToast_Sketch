@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 47,
+    "height": 50,
+    "width": 49,
     "x": 36,
     "y": 34
   },
@@ -30,11 +30,15 @@
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",
       "id": "DBA45D4F-AD1F-451F-AD83-530F2B0BE646"
+    },
+    {
+      "class": "shapePath",
+      "id": "E44BF709-4885-42E5-BB9F-86DB82182117"
     },
     {
       "class": "shapePath",
