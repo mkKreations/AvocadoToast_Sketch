@@ -110,6 +110,10 @@
     {
       "class": "bitmap",
       "id": "661E8808-DB65-4DE0-9F5E-82BE63ADDBB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E895F26B-5FA5-41D2-8F6B-51B78B66094C"
     }
   ],
   "maintainScrollPosition": false,
