@@ -20,13 +20,13 @@ A few screenshots of some of the assets produced
 
 ### Assets 
 
-[url=https://postimg.cc/87CZ8F94][img]https://i.postimg.cc/87CZ8F94/Rye-Full.png[/img][/url]
+[![Rye-Full.png](https://i.postimg.cc/52BTCLmh/Rye-Full.png)](https://postimg.cc/87CZ8F94)
 
-[url=https://postimg.cc/kV6w40nt][img]https://i.postimg.cc/kV6w40nt/Rye-No-Egg.png[/img][/url]
+[![Rye-No-Egg.png](https://i.postimg.cc/s2KLnzqK/Rye-No-Egg.png)](https://postimg.cc/kV6w40nt)
 
-[url=https://postimg.cc/yDrv71zH][img]https://i.postimg.cc/yDrv71zH/White-Full.png[/img][/url]
+[![White-Full.png](https://i.postimg.cc/25CJFycV/White-Full.png)](https://postimg.cc/yDrv71zH)
 
-[url=https://postimg.cc/jWpcJM53][img]https://i.postimg.cc/jWpcJM53/White-No-Egg.png[/img][/url]
+[![White-No-Egg.png](https://i.postimg.cc/hjj56wqn/White-No-Egg.png)](https://postimg.cc/jWpcJM53)
 
 
 ### App Icon
