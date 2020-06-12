@@ -66,6 +66,18 @@
     {
       "class": "symbolMaster",
       "id": "2597C9F8-5C7A-4FBA-A2D8-529332232C12"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FA80B524-FEFE-4F02-9A40-644E1BF2C3CF"
+    },
+    {
+      "class": "bitmap",
+      "id": "2A0838CE-26D7-4A04-A8B3-7592B70CFBB0"
+    },
+    {
+      "class": "group",
+      "id": "BF49F4BC-E739-4440-86CB-7455C1F6B3EC"
     }
   ],
   "maintainScrollPosition": false,
