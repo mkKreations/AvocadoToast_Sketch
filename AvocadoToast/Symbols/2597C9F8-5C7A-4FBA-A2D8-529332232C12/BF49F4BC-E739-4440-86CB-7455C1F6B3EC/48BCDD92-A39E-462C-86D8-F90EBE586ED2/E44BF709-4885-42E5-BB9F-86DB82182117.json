@@ -1,12 +1,11 @@
 {
-  "_class": "oval",
-  "booleanOperation": -1,
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "8CF76DCA-337F-42FF-985D-055ACD9ADC75",
-  "edited": false,
+  "do_objectID": "E44BF709-4885-42E5-BB9F-86DB82182117",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "ADFD5960-9D8A-448E-B32C-EBBFB1F8F2CC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,11 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "139A4BA9-DC85-4A68-AA84-C1222ABBE70C",
-    "height": 15.12295081967214,
-    "width": 10.08196721311472,
-    "x": 18.48360655737737,
-    "y": 11.76229508196781
+    "height": 65.7240872856269,
+    "width": 68.92274664476145,
+    "x": 14.67922782676608,
+    "y": 18.7865573770491
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -32,61 +30,50 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "maintainScrollPosition": false,
-  "name": "Yoke Gleam",
+  "name": "Yoke Shadow",
   "nameIsFixed": true,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.7761423749000067, 1.0000000000000002}",
-      "curveMode": 2,
-      "curveTo": "{0.22385762510000573, 1}",
+      "curveFrom": "{1.0331774743550173, 0.11537239834869169}",
+      "curveMode": 4,
+      "curveTo": "{1.1268795833165217, 0.42365499772523679}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.50000000000000488, 1}"
+      "point": "{0.85465446627907782, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{1.0000000000000071, 0.22385762509999907}",
+      "curveFrom": "{0.64616763689541812, 1.1046623931919231}",
       "curveMode": 2,
-      "curveTo": "{1.0000000000000071, 0.77614237490000115}",
+      "curveTo": "{1.0631412956627357, 0.60604419166254508}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{1.0000000000000071, 0.5}"
+      "point": "{0.85465446627907693, 0.85535329242723468}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.22385762510000262, -1.1102230246251565e-16}",
-      "curveMode": 2,
-      "curveTo": "{0.7761423749000067, -1.1102230246251565e-16}",
+      "curveFrom": "{0.75267752913636266, 1.2217374816469018}",
+      "curveMode": 4,
+      "curveTo": "{0.10642615383004857, 0.99151506387555077}",
       "hasCurveFrom": true,
       "hasCurveTo": true,
-      "point": "{0.50000000000000488, -1.1102230246251565e-16}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{5.773159728050814e-15, 0.77614237490000104}",
-      "curveMode": 2,
-      "curveTo": "{5.773159728050814e-15, 0.22385762509999896}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{6.2172489379008766e-15, 0.49999999999999994}"
+      "point": "{0, 0.81712379947202585}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -57,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
       "_class": "blur",
       "center": "{0.5, 0.5}",
-      "do_objectID": "F2ACDE73-578A-4965-A541-E437EF5606C9",
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 10,
@@ -97,7 +84,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "6C20C138-70D1-48C7-A402-B1FC9DEA7E32",
       "isEnabled": true,
       "lineCapStyle": 0,
       "lineJoinStyle": 0
@@ -158,7 +144,6 @@
       "_class": "colorControls",
       "brightness": 0,
       "contrast": 1,
-      "do_objectID": "76307354-22EB-4854-B72D-16D66C442B6B",
       "hue": 0,
       "isEnabled": true,
       "saturation": 1
@@ -166,10 +151,8 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "7D0CCAD3-E3EB-4676-AA2E-134EC730B2A2",
       "opacity": 1
     },
-    "do_objectID": "522A9888-FF2B-4216-A424-425A4C5896F5",
     "endMarkerType": 0,
     "fills": [
       {
@@ -177,8 +160,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9647058823529412,
-          "green": 1,
+          "blue": 0.5450980392156862,
+          "green": 0.8392156862745098,
           "red": 0.9921568627450981
         },
         "contextSettings": {
@@ -186,11 +169,11 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 0,
+        "fillType": 1,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.5, 0}",
+          "from": "{0.87933130241838897, 0.75598693613334056}",
           "gradientType": 0,
           "stops": [
             {
@@ -198,9 +181,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
+                "blue": 0.817665038609429,
+                "green": 0.9366562862937776,
+                "red": 0.9839504076086957
               },
               "position": 0
             },
@@ -209,14 +192,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
+                "blue": 0.5450980392156862,
+                "green": 0.8392156862745098,
+                "red": 0.9921568627450981
               },
               "position": 1
             }
           ],
-          "to": "{0.5, 1}"
+          "to": "{0.41192720986531883, 0.43750929682663253}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
