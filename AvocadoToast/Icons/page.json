@@ -74,6 +74,14 @@
     {
       "class": "symbolInstance",
       "id": "EAC7DA60-B462-40E3-9C1D-39EFB403EEEE"
+    },
+    {
+      "class": "bitmap",
+      "id": "61C086DB-1213-4A69-9D38-0B29BD3CEAF3"
+    },
+    {
+      "class": "bitmap",
+      "id": "3581F650-F4A4-4D02-BA69-8B5415FE9DC6"
     }
   ],
   "maintainScrollPosition": false,
