@@ -8,31 +8,31 @@ Click here to visit the iOS app - [AvocadoToast iOS](https://github.com/mkKreati
 
 ### Rye Full 
 
-[![Rye-Full.png](https://i.postimg.cc/Zq0Jrkf0/Rye-Full.png)](https://postimg.cc/KKSX2Why)
+[![Rye-Full.png](https://i.postimg.cc/x1gzfbpH/Rye-Full.png)](https://postimg.cc/21b6T3D8)
 
 ### Rye No Egg
 
-[![Rye-No-Egg.png](https://i.postimg.cc/K80ZkcDd/Rye-No-Egg.png)](https://postimg.cc/cv8qPSjm)
+[![Rye-No-Egg.png](https://i.postimg.cc/0y9S1CnP/Rye-No-Egg.png)](https://postimg.cc/WhfzMgxH)
 
 ### Rye with Egg & No Avocado
 
-[![Rye-Egg-No-Avocado.png](https://i.postimg.cc/fTjWsftW/Rye-Egg-No-Avocado.png)](https://postimg.cc/PPJnzZQ0)
+[![Rye-Egg-No-Avocado.png](https://i.postimg.cc/SNF8D4zX/Rye-Egg-No-Avocado.png)](https://postimg.cc/HjzVkfzH)
 
 ### White Full
 
-[![White-Full.png](https://i.postimg.cc/g05msM5s/White-Full.png)](https://postimg.cc/hJ9kP0KQ)
+[![White-Full.png](https://i.postimg.cc/mrDFt2Kn/White-Full.png)](https://postimg.cc/75FLRDH1)
 
 ### White No Egg
 
-[![White-No-Egg.png](https://i.postimg.cc/0QwxBY1s/White-No-Egg.png)](https://postimg.cc/CBSWZfKP)
+[![White-No-Egg.png](https://i.postimg.cc/9fnwTHhQ/White-No-Egg.png)](https://postimg.cc/wtDB8PMC)
 
 ### White with Egg & No Avocado
 
-[![White-Egg-No-Avocado.png](https://i.postimg.cc/x1ff1NMv/White-Egg-No-Avocado.png)](https://postimg.cc/56rdP0Py)
+[![White-Egg-No-Avocado.png](https://i.postimg.cc/TYVbssrt/White-Egg-No-Avocado.png)](https://postimg.cc/bsvdD3Vn)
 
 ### Egg
 
-[![Egg.png](https://i.postimg.cc/02q5hBNH/Egg.png)](https://postimg.cc/LhNM1vLz)
+[![Egg.png](https://i.postimg.cc/7PT03hb8/Egg.png)](https://postimg.cc/WtTdj2MX)
 
 ### App Icon
 
