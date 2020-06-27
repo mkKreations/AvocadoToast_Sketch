@@ -36,11 +36,11 @@ Click here to visit the iOS app - [AvocadoToast iOS](https://github.com/mkKreati
 
 ### App Icon
 
-[![AppIcon.png](https://i.postimg.cc/m2tDYHtT/AppIcon.png)](https://postimg.cc/YhBMkj6P)
+[![AppIcon.png](https://i.postimg.cc/SNBZ6HmV/AppIcon.png)](https://postimg.cc/Wh76jWFJ)
 
 ### Launch Screen
 
-[![Launch-Screen.png](https://i.postimg.cc/3rBZVP8t/Launch-Screen.png)](https://postimg.cc/3WkpDfDG)
+[![Launch-Screen.png](https://i.postimg.cc/2Sn02T6Y/Launch-Screen.png)](https://postimg.cc/hXP8GLTZ)
 
 
 ## Description
