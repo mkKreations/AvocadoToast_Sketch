@@ -1,7 +1,14 @@
 # AvocadoToast Sketch 
 
+## Description
 
-Click here to visit the iOS app - [AvocadoToast](https://github.com/mkKreations/AvocadoToast)
+This repo contains the two Sketch projects that were created to produce all 
+assets within the AvocadoToast iOS app. One Sketch project is dedicated to 
+creating the assets, whereas the other was used to create the app icon. This
+git repo was managed primarily using [Kactus](https://kactus.io/), a git-GUI,
+since Sketch projects mainly consist of large image and JSON files.
+
+Click here to visit the iOS app - [AvocadoToast](https://github.com/mkKreations/AvocadoToast)!
 
 
 ## Screenshots
@@ -41,15 +48,6 @@ Click here to visit the iOS app - [AvocadoToast](https://github.com/mkKreations/
 ### Launch Screen
 
 [![Launch-Screen.png](https://i.postimg.cc/2Sn02T6Y/Launch-Screen.png)](https://postimg.cc/hXP8GLTZ)
-
-
-## Description
-
-This repo contains the two Sketch projects that were created to produce all 
-assets within the AvocadoToast iOS app. One Sketch project is dedicated to 
-creating the assets, whereas the other was used to create the app icon. This
-git repo was managed primarily using [Kactus](https://kactus.io/), a git-GUI,
-since Sketch projects mainly consist of large image and JSON files.
 
 
 ## Feedback
